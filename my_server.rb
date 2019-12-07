@@ -8,6 +8,7 @@ class MyServer
   end
   
   def application
+    "Hello, my name is"
   end
     
 end
