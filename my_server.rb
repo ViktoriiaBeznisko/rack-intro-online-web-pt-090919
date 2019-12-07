@@ -8,7 +8,7 @@ class MyServer
   end
   
   def application
-    "Hello, my name is"
+    ["<em>Hello, my name is</em>"] 
   end
     
 end
